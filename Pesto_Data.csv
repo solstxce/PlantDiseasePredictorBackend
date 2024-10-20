@@ -1,0 +1,39 @@
+Disease,Best_pesticides,Worst_pesticides
+Apple___Apple_scab,"Captan, Mancozeb, Myclobutanil",Sulfur (less effective on established infections)
+Apple___Black_rot,"Myclobutanil, Mancozeb, Copper-based fungicides",Fungicides designed for powdery mildew
+Apple___Cedar_apple_rust,"Myclobutanil, Fenarimol, Propiconazole",Non-fungicidal products
+Cherry___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Cherry___Powdery_mildew,"Sulfur, Potassium bicarbonate, Neem oil",Fungicides targeting bacterial diseases
+Corn_(maize)_Cercospora_leaf_spot_Gray_leaf_spot,"Azoxystrobin, Pyraclostrobin, Propiconazole",Insecticides
+Corn_(maize)_Northern_Leaf_Blight,"Strobilurins (e.g., Azoxystrobin), Triazoles (e.g., Propiconazole)",Non-fungicidal treatments
+Grape___Black_rot,"Myclobutanil, Mancozeb, Copper-based fungicides",Fungicides designed for downy mildew
+Orange__Haunglongbing(Citrus_greening),"None (focus on vector control, e.g., Imidacloprid for psyllids)",Fungicides (not effective against bacterial diseases)
+Peach___Bacterial_spot,"Copper hydroxide, Streptomycin",Fungicides not targeting bacterial infections
+Potato___Early_blight,"Chlorothalonil, Mancozeb, Difenoconazole",Insecticides
+Squash___Powdery_mildew,"Sulfur, Potassium bicarbonate, Neem oil",Non-systemic fungicides ineffective against mildew
+Tomato___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Tomato___Target_Spot,"Azoxystrobin, Chlorothalonil",Fungicides not targeting Alternaria species
+Potato___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Strawberry___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Tomato___Late_blight,"Metalaxyl, Mancozeb, Chlorothalonil",Fungicides not effective against oomycetes
+Apple___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Corn_(maize)_Common_rust,"Propiconazole, Azoxystrobin, Mancozeb",Fungicides not targeting rust
+Grape__Esca(Black_Measles),"Trifloxystrobin, Fluopyram",Fungicides for powdery mildew
+Grape___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Peach___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Potato___Late_blight,"Metalaxyl, Mancozeb, Chlorothalonil",Fungicides not effective against oomycetes
+Strawberry___Leaf_scorch,"Copper-based fungicides, Myclobutanil",Non-specific fungicides
+Tomato___Leaf_Mold,"Chlorothalonil, Copper fungicides, Mancozeb",Insecticides
+Tomato___Tomato_mosaic_virus,None (focus on resistant varieties and sanitation),Fungicides and insecticides (viruses are not affected)
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,None for virus; Imidacloprid for whitefly control,Fungicides (viruses are not affected)
+Blueberry___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Corn_(maize)_healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Pepper_bell___Bacterial_spot,"Copper hydroxide, Streptomycin",Fungicides not targeting bacterial infections
+Grape__Leaf_blight(Isariopsis_Leaf_Spot),"Copper-based fungicides, Dithiocarbamates",Insecticides
+Pepper_bell___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Raspberry___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Soybean___healthy,None (healthy plants require no pesticide),Any pesticide (unnecessary for healthy plants)
+Tomato___Bacterial_spot,"Copper hydroxide, Streptomycin",Fungicides
+Tomato___Early_blight,"Chlorothalonil, Mancozeb, Difenoconazole",Insecticides
+Tomato___Septoria_leaf_spot,"Chlorothalonil, Mancozeb, Copper-based fungicides",Non-fungicidal products
+Tomato___Spider_mites_Two-spotted_spider_mite,"Abamectin, Neem oil, Miticides",Fungicides and broad-spectrum insecticides (may harm beneficial mites)
